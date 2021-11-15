@@ -1,5 +1,7 @@
 # CIND820_finalproject
 
-1.Data preperation \t
-2.Exploratory Data Analysis \t
+1.Data preperation
+
+2.Exploratory Data Analysis 
+
 3.Text preproccessing
