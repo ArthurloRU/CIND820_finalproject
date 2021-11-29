@@ -1,8 +1,6 @@
-**# CIND820_finalproject**
+# CIND820_finalproject
 
-<br />
-
-**The dataset used for this project:**
+## The dataset used for this project:
 
 Yelp Dataset
 
@@ -11,31 +9,35 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 In total, there are :
 * 5,200,000 user reviews
 * Information on 174,000 businesses
-* The data spans 11 metropolitan areas
+
+This dataset contains a total of seven CSV files. 
 
 https://www.kaggle.com/yelp-dataset/yelp-dataset/version/6?select=yelp_business.csv
 
+In this project, I will be focusing on two files: *yelp_business.csv* and *yelp_review.csv*
+
 <br />
 
-
-**Dataset Description:**
+## Dataset Description:
 
 ![image](https://user-images.githubusercontent.com/92567994/143829333-a8bec231-7664-4125-a42c-7269ea77a783.png)
 
 <br />
 
-**Description of Project:**
+## Description of Project:
 
 A model is developed using existing yelp reviews to predict the ratings for restaurants in Toronto. 
 
 <br />
 
-1.Data preperation
+**1. Data preperation**
+
+Data processing involved modifying the format of the downloaded data, so that eventually we can generate features that could be used to train our classifier. I also joined the data from reviews dataset with the business dataset.
 
 <br />
 
-2.Exploratory Data Analysis 
+**2. Exploratory Data Analysis**
 
 <br />
 
-3.Text preproccessing
+**3. Text preproccessing**
