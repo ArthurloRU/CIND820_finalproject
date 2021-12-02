@@ -32,8 +32,6 @@ A model is developed using existing yelp reviews to predict the ratings for rest
 
 **1. Data preperation**
 
-Data processing involved modifying the format of the downloaded data, so that eventually we can generate features that could be used to train our classifier. I also joined the data from reviews dataset with the business dataset.
-
 <br />
 
 **2. Exploratory Data Analysis**
