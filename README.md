@@ -41,3 +41,11 @@ Data processing involved modifying the format of the downloaded data, so that ev
 <br />
 
 **3. Text preproccessing**
+
+<br />
+
+**4. Sentiment Analysis**
+
+<br />
+
+**5. Building Prediction Model**
